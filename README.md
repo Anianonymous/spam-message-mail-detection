@@ -1,4 +1,4 @@
-# spam-message-mail-detection
+# spam-message/mail-detection
 Primarily, we are importing dataset which is required to train the model for detection of spam message using logistic regression machine learning algorithm.
 
 Then we have to verify that dataset is not overfit by verifying train_data accuracy and test_data accuracy.
